@@ -1,19 +1,12 @@
 ### Hi there 👋
 
-<!--
-**leonardowf/leonardowf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Leo, an aspiring gardener that writes code. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardowf)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on my automated meal planner, an automated grow rack and a release train tool.
+- 🌱 I’m currently learning Typescript, React-Native, Python on Rapsberry PI and constantly Swift. Also learning nowadays about postcapitalism.
+- 👯 I’m looking to collaborate on any open-source project that has any impact direct or indirect on politics, social equality or environmental changes
+- 🤔 I’m looking for help with Brazilian peppers that are dying because of the cold weather
+- 💬 Ask me about My dog Feijão and my cat Frida, they are so smart
+- 📫 How to reach me: I created a Twitter account just for this https://twitter.com/leo_wistuba
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Once I believed that Kendrick's Lamar album DAMN had different meanings depending on the way that you listened the tracks
