@@ -2,7 +2,7 @@
 
 I am Leo, an aspiring gardener that writes code. 
 
-- 🔭 I’m currently working on my automated meal planner, an automated grow rack and a release train tool.
+- 🔭 I’m currently working on my automated meal planner, an automated seedling x hidroponic grow rack and a release train tool.
 - 🌱 I’m currently learning Typescript, React-Native, Python on Rapsberry PI and constantly Swift. Also learning nowadays about postcapitalism.
 - 👯 I’m looking to collaborate on any open-source project that has any impact direct or indirect on politics, social equality or environmental changes
 - 🤔 I’m looking for help with Brazilian peppers that are dying because of the cold weather
